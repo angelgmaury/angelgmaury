@@ -18,27 +18,20 @@
 
 ---
 
-<div align="left">
-<h3>🛠️ Lenguajes Y Herramientas:<h3>
+<div >
+    <h3>🛠️ Lenguajes Y Herramientas:</h3>
+</div>
 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JS" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACTJS" alt="REACTJS" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWINDCSS" alt="TAILWINDCSS" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXTJS" alt="NEXTJS" width="40" height="40"/>&nbsp;
-<div>
-<div>
+<div style="display: flex; gap:12px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACTJS" alt="REACTJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWINDCSS" alt="TAILWINDCSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXTJS" alt="NEXTJS" width="40" height="40"/>&nbsp;
+</div>
 
 
 ---
