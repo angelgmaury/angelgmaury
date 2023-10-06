@@ -1,5 +1,5 @@
-<div align="center">
    ![bob](https://github.com/angelgmaury/angelgmaury/assets/128613074/0ea51527-1c17-4ace-8b01-c57dd798f5ba)
+<div align="center">
    <h1 align="center">Hola 👋, Soy Angel Maury</h1>
    <h3 align="center">Soy un desarrollador web frontend Jr con una fuerte pasión por la programación y un compromiso firme con la mejora continua. Mi motivación radica en abordar proyectos desafiantes y en adquirir constantemente nuevos conocimientos.</h3>
    <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="200">
