@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/angelgmaury/angelgmaury/assets/128613074/0ea51527-1c17-4ace-8b01-c57dd798f5ba" width="600" height="250" >
+   <img src="https://github.com/angelgmaury/angelgmaury/assets/128613074/0ea51527-1c17-4ace-8b01-c57dd798f5ba" width="400" height="150" >
    <h1 align="center">Hola 👋, Soy Angel Maury</h1>
    <h3 align="center">Soy un desarrollador web frontend Jr con una fuerte pasión por la programación y un compromiso firme con la mejora continua. Mi motivación radica en abordar proyectos desafiantes y en adquirir constantemente nuevos conocimientos.</h3>
 </div>
