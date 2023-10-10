@@ -1,7 +1,7 @@
 <div align="center">
    <h1 align="center">Hola 👋, Soy Angel Maury</h1>
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
-   <h3 align="center">Soy un desarrollador web frontend Jr con una fuerte pasión por la programación y un compromiso firme con la mejora continua. Mi motivación radica en abordar proyectos desafiantes y en adquirir constantemente nuevos conocimientos.</h3>
+   <h3 align="center">Soy un desarrollador web frontend con una fuerte pasión por la programación y un compromiso firme con la mejora continua. Mi motivación radica en abordar proyectos desafiantes y en adquirir constantemente nuevos conocimientos.</h3>
 </div>
 
 
