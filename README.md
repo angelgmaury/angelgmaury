@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Acerca De Mí 
 
-- 📫 Puedes contactarme por aquí: angelgmaury@gmail.com
+- 📫 Puedes contactarme por aquí: angelgmauryb@gmail.com
 
 - 📝 Actualmente estoy aprendiendo SQL, mejorando en node junto a express y testing.
 
@@ -27,6 +27,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="EXPRESS" alt="EXPRESS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACTJS" alt="REACTJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWINDCSS" alt="TAILWINDCSS" width="40" height="40"/>&nbsp;
@@ -34,6 +35,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXTJS" alt="NEXTJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="JEST" alt="JEST" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
 </div>
 
 
