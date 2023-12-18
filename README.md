@@ -1,6 +1,6 @@
 <div align="center">
    <h1 align="center">Hola 👋, Soy Angel Maury</h1>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
    <h3 align="center">Soy un desarrollador web frontend con una fuerte pasión por la programación y un compromiso firme con la mejora continua. Mi motivación radica en abordar proyectos desafiantes y en adquirir constantemente nuevos conocimientos.</h3>
 </div>
 
@@ -11,7 +11,7 @@
 
 - 📫 Puedes contactarme por aquí: angelgmauryb@gmail.com
 
-- 📝 Actualmente estoy aprendiendo SQL, mejorando en node junto a express y testing.
+- 📝 Actualmente estoy aprendiendo Prisma, Firebase y GraphQL
 
 - 🌐 Portafolio: [Angel Maury](https://portafolio-angel-maury.vercel.app/ "Angel Maury")
 
