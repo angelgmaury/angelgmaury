@@ -11,8 +11,6 @@
 
 - 📫 Puedes contactarme por aquí: angelgmauryb@gmail.com
 
-- 📝 Actualmente estoy aprendiendo Prisma, Firebase y GraphQL
-
 - 🌐 Portafolio: [Angel Maury](https://portafolio-angel-maury.vercel.app/ "Angel Maury")
 
 
